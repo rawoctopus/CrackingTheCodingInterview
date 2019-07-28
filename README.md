@@ -219,7 +219,7 @@
 
    > 답 : 우선 s1에서 5를 꺼내서 임시 변수에 보관한 다음, s2의 12와 8을 s1로 이동시킨다. 그런 다음 5를 s2에 넣는다. 그리고 다시 s1에 있는 8과 12를 s2에 넣어준다.
    >
-   >  ![KakaoTalk_Photo_2019-07-27-03-39-34](/Users/sukholim/Desktop/KakaoTalk_Photo_2019-07-27-03-39-34.jpeg)
+   >  ![KakaoTalk_Photo_2019-07-27-03-39-34](https://user-images.githubusercontent.com/28735418/62001716-91414b00-b131-11e9-8dea-b4c1df0948d7.jpeg)
    >
    > ```java
    > void sort(Stack s) {
@@ -274,7 +274,8 @@ __트리__
   - 이진 탐색 트리 : 모든 노드가 '모든 왼쪽 자식들 <= n < 모든 오른쪽 자식들' 속성이 있는 이진 트리를 말한다.
   - 면접 때 트리 문제가 주어지면 이진 탐색 트리일 것이라고 가정해버리는 경우가 많은데, 면접관에게 확실히 물어볼 것.
   - 좀 헷갈릴 수도 있을 만한 이진 탐색 트리 케이스
-    ![KakaoTalk_Photo_2019-07-27-04-10-26](/Users/sukholim/Desktop/KakaoTalk_Photo_2019-07-27-04-10-26.jpeg)
+    ![KakaoTalk_Photo_2019-07-27-04-10-26](https://user-images.githubusercontent.com/28735418/62001718-930b0e80-b131-11e9-9903-30c71dd5dbd8.jpeg)
+
 - __균형 vs 비균형__
   - 왼쪽과 오른쪽 부분 트리의 크기가 완전히 같게 하는 것이 균형을 잡는다는 것을 의미하지는 않음.
   - 균형 트리의 일반적인 유형으로는 _레드-블랙 트리와 AVL 트리_ 등이 있다.
